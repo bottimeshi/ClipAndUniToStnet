@@ -25,6 +25,7 @@ CLIPによる特徴ベクトルの保存はSTCLIP/source/imageToFeature.pyを実
 UNIによる特徴ベクトルの保存はUNIST/UNI/source/imageToFeature.pyを実行することで行うことができる。
 
 # 4．画像特徴量ベクトルから遺伝子発現量への変換を学習する
+saveCountData.pyを実行することで遺伝子発現量をオブジェクトとして保存した後、学習を行う。
 ## CLIP
 CLIPによる学習はSTCLIP/source/crossValidation.pyを実行することで行うことができる。また、その結果の表示はSTCLIP/source/analysis.pyを実行することで行うことができる
 
